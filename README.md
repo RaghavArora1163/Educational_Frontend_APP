@@ -202,11 +202,7 @@ Ensure Firebase services are properly configured:
 Configure Razorpay credentials for payment processing.
 
 
-## Contributors
 
-- **Raghav Arora**
-
-- **Megh Sankhla**
 
 ## 📄 License
 
